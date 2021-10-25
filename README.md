@@ -3,11 +3,7 @@ Crachá virtual criado na trilha origin na NLW Heat
 
 ## Tecnologias Usadas
 
-HTML 
-CSS 
-GIT 
-JAVASCRIPT 
-FIGMA 
+HTML | CSS | GIT | JAVASCRIPT | FIGMA 
 
 ## Sobre o Projeto
 
